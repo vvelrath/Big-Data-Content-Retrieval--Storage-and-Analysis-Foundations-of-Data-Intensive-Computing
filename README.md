@@ -7,11 +7,11 @@ This project deals with using Hadoop framework to analyze twitter data. Using Ha
 
 ### Project Objectives
 
- To understand the components and core technologies related to content retrieval, storage and data-intensive computing analysis.
- To explore designing and implementing data-intensive (Big-data) computing solutions using MapReduce (MR) programming model.
- Using Hadoop 2 for HDFS and MR infrastructure.
- To visualize the data using appropriate tools.
- Create a detailed documentation of the experience.
+ To understand the components and core technologies related to content retrieval, storage and data-intensive computing analysis.									
+ To explore designing and implementing data-intensive (Big-data) computing solutions using MapReduce (MR) programming model.								
+ Using Hadoop 2 for HDFS and MR infrastructure.																												
+ To visualize the data using appropriate tools.																											
+ Create a detailed documentation of the experience.																											
 
 ### Project Approach
 
@@ -27,6 +27,6 @@ Finally, the fourth part of the project involved finding the shortest path of th
 
 ### Program execution:
 
-1) Import all the TAR files into eclipse
-2) Use /input and /output as the input and output paths respectively
-3) No Command Line arguments are needed for any of the programs
+1) Import all the TAR files into eclipse																					
+2) Use /input and /output as the input and output paths respectively																	
+3) No Command Line arguments are needed for any of the programs																							
